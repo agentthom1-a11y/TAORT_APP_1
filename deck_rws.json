@@ -1,0 +1,33 @@
+{
+  "Strength": {
+    "upright": ["inner resilience", "gentle power", "self-regulation"],
+    "reversed": ["self-doubt", "forcefulness", "fatigue"],
+    "summary": "Courage through gentle self-control; choose a small boundary now.",
+    "actions": [
+      "Write your key need in 1 sentence.",
+      "Pick a time to speak.",
+      "Practice a 4-4-6 breath before the chat."
+    ],
+    "mantra": "Calm is my strength."
+  },
+  "The Fool": {
+    "upright": ["new beginnings", "innocence", "free spirit"],
+    "reversed": ["recklessness", "hesitation", "naivety"],
+    "summary": "Step forward, but watch your footing.",
+    "actions": [
+      "Name one step that feels daring.",
+      "Set a small safety net."
+    ],
+    "mantra": "I leap with awareness."
+  },
+  "The Magician": {
+    "upright": ["manifestation", "resourcefulness", "power"],
+    "reversed": ["manipulation", "untapped talents", "scattered energy"],
+    "summary": "Your tools are ready; focus your intent.",
+    "actions": [
+      "Gather your resources.",
+      "Commit to one clear goal today."
+    ],
+    "mantra": "I create with focus."
+  }
+}
