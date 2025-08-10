@@ -1,0 +1,2 @@
+"""Simple Tarot app package."""
+
